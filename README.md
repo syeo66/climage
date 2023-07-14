@@ -1,6 +1,8 @@
 # Climage
 Climage is a small Rust command-line utility that displays images in the terminal using Unicode block characters.
 
+![Climage Screenshot](screenshot.png)
+
 ## Installation
 To use Climage, you will need to have Rust installed on your system. Once you have Rust installed, you can clone the repository and build Climaxe from source:
 
